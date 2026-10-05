@@ -1,0 +1,6 @@
+{
+  "name": "PhonoSub",
+  "description": "Cinematic automatic video captions with sound-preserving phonetic transliteration and synchronized timeline editor",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
